@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on FullStack Web Development
 - 💬 Ask me about anything
 - 📫 How to reach me: <a href="mailto:lenguyenquocdat1219@gmail.com">Gmail</a>
-- ⚡ Fun fact: I do have an accounting certificated.
 
 ## Tech Stack
 
