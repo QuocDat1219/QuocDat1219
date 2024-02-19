@@ -25,7 +25,7 @@
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL-white.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQL%20Server-white.svg?style=for-the-badge&logo=sqlserver&logoColor=white)
 
 ### Stats
 
