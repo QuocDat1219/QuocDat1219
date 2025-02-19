@@ -1,4 +1,4 @@
-### Hi there 👋. Gordon's here, welcome to my profile!!
+### Hi there 👋. Quốc Đạt here, welcome to my profile!!
 
 - 🔭 I’m currently working on FullStack Development
 - 🌱 I’m currently learning kubernetes
